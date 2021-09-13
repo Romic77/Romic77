@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <p align="center">
   Visitor count<br>
