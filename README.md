@@ -1,6 +1,6 @@
 ### Hi Bro 👋
 
-<img src="./moon-g36b8614c9_1280.jpg"/>
+<img src="./moon.jpg"/>
 
 <p align="center">
   Visitor count<br>
